@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //zmiana2
 #define WIERSZE 3
 #define KOLUMNY 5
 void kop_vla(int wiersze, int kolumny, double tab[wiersze][kolumny], double tab2[wiersze][kolumny]);
