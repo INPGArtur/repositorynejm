@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//zmiana3
 #define WIERSZE 3
 #define KOLUMNY 5
 void proszenie(double tab[][KOLUMNY], int wiersze);
