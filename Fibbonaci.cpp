@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream.h> //zmiana1
 #include <stdio.h>
 
 int d;
