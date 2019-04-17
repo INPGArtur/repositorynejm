@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define MIESIACE 12
+#define MIESIACE 12//zmiana2.3
 int main(void)
 {
     int dni[MIESIACE] = {31,28,31,30,31,30,31, 31,30,31,30,31};
