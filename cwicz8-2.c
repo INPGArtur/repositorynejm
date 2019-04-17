@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define WIERSZE 3
+#define WIERSZE 3//zmiana2.1
 #define KOLUMNY 5
 void kop_vla(int wiersze, int kolumny, double tab[wiersze][kolumny], double tab2[wiersze][kolumny]);
 void wyswietl_vla(int wiersze, int kolumny, double tab[wiersze][kolumny]);
